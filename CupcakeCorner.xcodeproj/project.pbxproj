@@ -11,6 +11,7 @@
 		CCA524072B64B5C000096E3A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA524062B64B5C000096E3A /* ContentView.swift */; };
 		CCA524092B64B5C100096E3A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCA524082B64B5C100096E3A /* Assets.xcassets */; };
 		CCA5240C2B64B5C100096E3A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCA5240B2B64B5C100096E3A /* Preview Assets.xcassets */; };
+		CCA524132B64C54000096E3A /* loadImageFromServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCA524122B64C54000096E3A /* loadImageFromServer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CCA524062B64B5C000096E3A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CCA524082B64B5C100096E3A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CCA5240B2B64B5C100096E3A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CCA524122B64C54000096E3A /* loadImageFromServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loadImageFromServer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				CCA524062B64B5C000096E3A /* ContentView.swift */,
 				CCA524082B64B5C100096E3A /* Assets.xcassets */,
 				CCA5240A2B64B5C100096E3A /* Preview Content */,
+				CCA524122B64C54000096E3A /* loadImageFromServer.swift */,
 			);
 			path = CupcakeCorner;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CCA524072B64B5C000096E3A /* ContentView.swift in Sources */,
+				CCA524132B64C54000096E3A /* loadImageFromServer.swift in Sources */,
 				CCA524052B64B5C000096E3A /* CupcakeCornerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
